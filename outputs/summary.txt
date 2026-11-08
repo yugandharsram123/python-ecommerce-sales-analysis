@@ -1,0 +1,7 @@
+E-commerce sales analysis
+=========================
+Revenue from delivered/shipped orders: 16,418,462.50
+Number of delivered/shipped orders: 1,661
+Average order value: 9,884.69
+Unique customers represented in sales: 318
+Top category: Electronics

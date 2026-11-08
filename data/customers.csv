@@ -1,0 +1,321 @@
+customer_id,full_name,email,city,state,signup_date,segment
+1001,Customer 001,customer001@example.test,Bengaluru,Karnataka,2021-02-02,Corporate
+1002,Customer 002,customer002@example.test,Ahmedabad,Gujarat,2023-05-03,Consumer
+1003,Customer 003,customer003@example.test,Hyderabad,Telangana,2021-12-23,Corporate
+1004,Customer 004,customer004@example.test,Mumbai,Maharashtra,2021-06-03,Consumer
+1005,Customer 005,customer005@example.test,Chennai,Tamil Nadu,2022-04-28,Small Business
+1006,Customer 006,customer006@example.test,Chennai,Tamil Nadu,2022-03-16,Small Business
+1007,Customer 007,customer007@example.test,Bengaluru,Karnataka,2021-03-31,Consumer
+1008,Customer 008,customer008@example.test,Chennai,Tamil Nadu,2022-02-26,Consumer
+1009,Customer 009,customer009@example.test,Delhi,Delhi,2021-08-30,Small Business
+1010,Customer 010,customer010@example.test,Mumbai,Maharashtra,2021-05-21,Consumer
+1011,Customer 011,customer011@example.test,Kochi,Kerala,2023-09-03,Consumer
+1012,Customer 012,customer012@example.test,Ahmedabad,Gujarat,2023-05-11,Consumer
+1013,Customer 013,customer013@example.test,Chennai,Tamil Nadu,2022-03-01,Consumer
+1014,Customer 014,customer014@example.test,Mumbai,Maharashtra,2021-05-19,Small Business
+1015,Customer 015,customer015@example.test,Kolkata,West Bengal,2023-01-03,Consumer
+1016,Customer 016,customer016@example.test,Mumbai,Maharashtra,2021-07-19,Small Business
+1017,Customer 017,customer017@example.test,Jaipur,Rajasthan,2023-03-21,Consumer
+1018,Customer 018,customer018@example.test,Mumbai,Maharashtra,2021-04-16,Consumer
+1019,Customer 019,customer019@example.test,Pune,Maharashtra,2022-08-05,Consumer
+1020,Customer 020,customer020@example.test,Delhi,Delhi,2021-08-05,Consumer
+1021,Customer 021,customer021@example.test,Hyderabad,Telangana,2021-11-21,Consumer
+1022,Customer 022,customer022@example.test,Delhi,Delhi,2021-10-09,Consumer
+1023,Customer 023,customer023@example.test,Delhi,Delhi,2021-10-18,Corporate
+1024,Customer 024,customer024@example.test,Kolkata,West Bengal,2022-10-12,Consumer
+1025,Customer 025,customer025@example.test,Kolkata,West Bengal,2022-10-04,Corporate
+1026,Customer 026,customer026@example.test,Jaipur,Rajasthan,2023-02-28,Consumer
+1027,Customer 027,customer027@example.test,Hyderabad,Telangana,2021-11-12,Corporate
+1028,Customer 028,customer028@example.test,Delhi,Delhi,2021-11-10,Small Business
+1029,Customer 029,customer029@example.test,Chennai,Tamil Nadu,2022-04-03,Consumer
+1030,Customer 030,customer030@example.test,Pune,Maharashtra,2022-07-17,Consumer
+1031,Customer 031,customer031@example.test,Jaipur,Rajasthan,2023-03-07,Consumer
+1032,Customer 032,customer032@example.test,Delhi,Delhi,2021-09-06,Consumer
+1033,Customer 033,customer033@example.test,Chennai,Tamil Nadu,2022-04-05,Consumer
+1034,Customer 034,customer034@example.test,Pune,Maharashtra,2022-07-20,Small Business
+1035,Customer 035,customer035@example.test,Mumbai,Maharashtra,2021-05-26,Consumer
+1036,Customer 036,customer036@example.test,Jaipur,Rajasthan,2023-02-26,Consumer
+1037,Customer 037,customer037@example.test,Chennai,Tamil Nadu,2022-04-08,Small Business
+1038,Customer 038,customer038@example.test,Kochi,Kerala,2023-09-20,Small Business
+1039,Customer 039,customer039@example.test,Jaipur,Rajasthan,2023-03-30,Consumer
+1040,Customer 040,customer040@example.test,Ahmedabad,Gujarat,2023-04-23,Consumer
+1041,Customer 041,customer041@example.test,Bengaluru,Karnataka,2021-04-07,Consumer
+1042,Customer 042,customer042@example.test,Hyderabad,Telangana,2021-11-22,Consumer
+1043,Customer 043,customer043@example.test,Delhi,Delhi,2021-09-08,Consumer
+1044,Customer 044,customer044@example.test,Delhi,Delhi,2021-10-07,Consumer
+1045,Customer 045,customer045@example.test,Chennai,Tamil Nadu,2022-03-07,Corporate
+1046,Customer 046,customer046@example.test,Kolkata,West Bengal,2022-12-06,Consumer
+1047,Customer 047,customer047@example.test,Jaipur,Rajasthan,2023-04-06,Consumer
+1048,Customer 048,customer048@example.test,Ahmedabad,Gujarat,2023-07-30,Consumer
+1049,Customer 049,customer049@example.test,Chennai,Tamil Nadu,2022-04-25,Consumer
+1050,Customer 050,customer050@example.test,Bengaluru,Karnataka,2021-01-30,Consumer
+1051,Customer 051,customer051@example.test,Kochi,Kerala,2023-08-07,Consumer
+1052,Customer 052,customer052@example.test,Pune,Maharashtra,2022-08-02,Corporate
+1053,Customer 053,customer053@example.test,Jaipur,Rajasthan,2023-04-17,Small Business
+1054,Customer 054,customer054@example.test,Ahmedabad,Gujarat,2023-06-12,Corporate
+1055,Customer 055,customer055@example.test,Jaipur,Rajasthan,2023-02-28,Consumer
+1056,Customer 056,customer056@example.test,Kolkata,West Bengal,2022-12-12,Corporate
+1057,Customer 057,customer057@example.test,Kolkata,West Bengal,2022-10-26,Consumer
+1058,Customer 058,customer058@example.test,Delhi,Delhi,2021-08-11,Corporate
+1059,Customer 059,customer059@example.test,Kolkata,West Bengal,2022-10-26,Consumer
+1060,Customer 060,customer060@example.test,Delhi,Delhi,2021-09-30,Corporate
+1061,Customer 061,customer061@example.test,Bengaluru,Karnataka,2021-01-28,Corporate
+1062,Customer 062,customer062@example.test,Bengaluru,Karnataka,2021-01-10,Corporate
+1063,Customer 063,customer063@example.test,Jaipur,Rajasthan,2023-02-07,Consumer
+1064,Customer 064,customer064@example.test,Kochi,Kerala,2023-08-10,Consumer
+1065,Customer 065,customer065@example.test,Delhi,Delhi,2021-10-26,Consumer
+1066,Customer 066,customer066@example.test,Delhi,Delhi,2021-08-20,Corporate
+1067,Customer 067,customer067@example.test,Ahmedabad,Gujarat,2023-05-09,Consumer
+1068,Customer 068,customer068@example.test,Chennai,Tamil Nadu,2022-05-11,Consumer
+1069,Customer 069,customer069@example.test,Hyderabad,Telangana,2021-12-09,Small Business
+1070,Customer 070,customer070@example.test,Chennai,Tamil Nadu,2022-04-04,Corporate
+1071,Customer 071,customer071@example.test,Kolkata,West Bengal,2022-12-13,Consumer
+1072,Customer 072,customer072@example.test,Kolkata,West Bengal,2022-10-12,Consumer
+1073,Customer 073,customer073@example.test,Kolkata,West Bengal,2022-10-28,Consumer
+1074,Customer 074,customer074@example.test,Chennai,Tamil Nadu,2022-05-09,Consumer
+1075,Customer 075,customer075@example.test,Mumbai,Maharashtra,2021-05-19,Consumer
+1076,Customer 076,customer076@example.test,Jaipur,Rajasthan,2023-03-13,Consumer
+1077,Customer 077,customer077@example.test,Kochi,Kerala,2023-11-04,Small Business
+1078,Customer 078,customer078@example.test,Kolkata,West Bengal,2022-10-01,Consumer
+1079,Customer 079,customer079@example.test,Kolkata,West Bengal,2022-12-11,Consumer
+1080,Customer 080,customer080@example.test,Delhi,Delhi,2021-09-09,Consumer
+1081,Customer 081,customer081@example.test,Ahmedabad,Gujarat,2023-05-07,Small Business
+1082,Customer 082,customer082@example.test,Kochi,Kerala,2023-09-30,Consumer
+1083,Customer 083,customer083@example.test,Delhi,Delhi,2021-10-17,Corporate
+1084,Customer 084,customer084@example.test,Kochi,Kerala,2023-09-19,Consumer
+1085,Customer 085,customer085@example.test,Jaipur,Rajasthan,2023-01-08,Consumer
+1086,Customer 086,customer086@example.test,Delhi,Delhi,2021-09-01,Consumer
+1087,Customer 087,customer087@example.test,Ahmedabad,Gujarat,2023-06-25,Consumer
+1088,Customer 088,customer088@example.test,Ahmedabad,Gujarat,2023-05-26,Corporate
+1089,Customer 089,customer089@example.test,Chennai,Tamil Nadu,2022-04-20,Consumer
+1090,Customer 090,customer090@example.test,Chennai,Tamil Nadu,2022-03-09,Consumer
+1091,Customer 091,customer091@example.test,Delhi,Delhi,2021-10-23,Consumer
+1092,Customer 092,customer092@example.test,Mumbai,Maharashtra,2021-06-16,Corporate
+1093,Customer 093,customer093@example.test,Ahmedabad,Gujarat,2023-05-18,Consumer
+1094,Customer 094,customer094@example.test,Mumbai,Maharashtra,2021-04-21,Consumer
+1095,Customer 095,customer095@example.test,Chennai,Tamil Nadu,2022-05-10,Consumer
+1096,Customer 096,customer096@example.test,Jaipur,Rajasthan,2023-02-05,Corporate
+1097,Customer 097,customer097@example.test,Jaipur,Rajasthan,2023-02-26,Consumer
+1098,Customer 098,customer098@example.test,Pune,Maharashtra,2022-08-23,Corporate
+1099,Customer 099,customer099@example.test,Delhi,Delhi,2021-09-21,Consumer
+1100,Customer 100,customer100@example.test,Kolkata,West Bengal,2022-12-28,Corporate
+1101,Customer 101,customer101@example.test,Mumbai,Maharashtra,2021-06-22,Corporate
+1102,Customer 102,customer102@example.test,Kolkata,West Bengal,2022-10-31,Corporate
+1103,Customer 103,customer103@example.test,Jaipur,Rajasthan,2023-04-01,Small Business
+1104,Customer 104,customer104@example.test,Delhi,Delhi,2021-08-16,Consumer
+1105,Customer 105,customer105@example.test,Delhi,Delhi,2021-10-22,Consumer
+1106,Customer 106,customer106@example.test,Chennai,Tamil Nadu,2022-05-25,Consumer
+1107,Customer 107,customer107@example.test,Bengaluru,Karnataka,2021-03-22,Consumer
+1108,Customer 108,customer108@example.test,Chennai,Tamil Nadu,2022-04-17,Corporate
+1109,Customer 109,customer109@example.test,Ahmedabad,Gujarat,2023-04-25,Consumer
+1110,Customer 110,customer110@example.test,Kolkata,West Bengal,2022-09-25,Small Business
+1111,Customer 111,customer111@example.test,Delhi,Delhi,2021-09-26,Consumer
+1112,Customer 112,customer112@example.test,Kochi,Kerala,2023-08-24,Consumer
+1113,Customer 113,customer113@example.test,Ahmedabad,Gujarat,2023-07-02,Consumer
+1114,Customer 114,customer114@example.test,Hyderabad,Telangana,2022-01-21,Consumer
+1115,Customer 115,customer115@example.test,Kochi,Kerala,2023-09-23,Consumer
+1116,Customer 116,customer116@example.test,Jaipur,Rajasthan,2023-03-31,Consumer
+1117,Customer 117,customer117@example.test,Chennai,Tamil Nadu,2022-05-07,Small Business
+1118,Customer 118,customer118@example.test,Delhi,Delhi,2021-10-07,Consumer
+1119,Customer 119,customer119@example.test,Delhi,Delhi,2021-08-23,Small Business
+1120,Customer 120,customer120@example.test,Jaipur,Rajasthan,2023-03-12,Consumer
+1121,Customer 121,customer121@example.test,Jaipur,Rajasthan,2023-01-26,Small Business
+1122,Customer 122,customer122@example.test,Kolkata,West Bengal,2022-10-18,Consumer
+1123,Customer 123,customer123@example.test,Mumbai,Maharashtra,2021-05-18,Corporate
+1124,Customer 124,customer124@example.test,Jaipur,Rajasthan,2023-04-16,Consumer
+1125,Customer 125,customer125@example.test,Bengaluru,Karnataka,2021-04-14,Consumer
+1126,Customer 126,customer126@example.test,Kolkata,West Bengal,2022-11-13,Small Business
+1127,Customer 127,customer127@example.test,Kolkata,West Bengal,2022-09-24,Consumer
+1128,Customer 128,customer128@example.test,Kolkata,West Bengal,2023-01-01,Consumer
+1129,Customer 129,customer129@example.test,Jaipur,Rajasthan,2023-02-24,Consumer
+1130,Customer 130,customer130@example.test,Chennai,Tamil Nadu,2022-03-18,Corporate
+1131,Customer 131,customer131@example.test,Jaipur,Rajasthan,2023-03-12,Consumer
+1132,Customer 132,customer132@example.test,Kolkata,West Bengal,2022-10-06,Corporate
+1133,Customer 133,customer133@example.test,Hyderabad,Telangana,2022-02-01,Consumer
+1134,Customer 134,customer134@example.test,Kochi,Kerala,2023-08-19,Corporate
+1135,Customer 135,customer135@example.test,Pune,Maharashtra,2022-07-10,Consumer
+1136,Customer 136,customer136@example.test,Kochi,Kerala,2023-10-28,Consumer
+1137,Customer 137,customer137@example.test,Hyderabad,Telangana,2022-02-12,Consumer
+1138,Customer 138,customer138@example.test,Kochi,Kerala,2023-09-26,Consumer
+1139,Customer 139,customer139@example.test,Ahmedabad,Gujarat,2023-07-16,Consumer
+1140,Customer 140,customer140@example.test,Kolkata,West Bengal,2022-12-02,Consumer
+1141,Customer 141,customer141@example.test,Jaipur,Rajasthan,2023-01-29,Corporate
+1142,Customer 142,customer142@example.test,Bengaluru,Karnataka,2021-01-14,Consumer
+1143,Customer 143,customer143@example.test,Mumbai,Maharashtra,2021-05-04,Corporate
+1144,Customer 144,customer144@example.test,Jaipur,Rajasthan,2023-01-26,Corporate
+1145,Customer 145,customer145@example.test,Kolkata,West Bengal,2022-12-26,Corporate
+1146,Customer 146,customer146@example.test,Bengaluru,Karnataka,2021-03-02,Small Business
+1147,Customer 147,customer147@example.test,Bengaluru,Karnataka,2021-03-17,Consumer
+1148,Customer 148,customer148@example.test,Pune,Maharashtra,2022-07-24,Consumer
+1149,Customer 149,customer149@example.test,Jaipur,Rajasthan,2023-02-23,Corporate
+1150,Customer 150,customer150@example.test,Ahmedabad,Gujarat,2023-07-11,Consumer
+1151,Customer 151,customer151@example.test,Kolkata,West Bengal,2022-11-16,Consumer
+1152,Customer 152,customer152@example.test,Kolkata,West Bengal,2022-10-21,Small Business
+1153,Customer 153,customer153@example.test,Mumbai,Maharashtra,2021-05-08,Corporate
+1154,Customer 154,customer154@example.test,Chennai,Tamil Nadu,2022-04-09,Corporate
+1155,Customer 155,customer155@example.test,Mumbai,Maharashtra,2021-07-02,Consumer
+1156,Customer 156,customer156@example.test,Jaipur,Rajasthan,2023-02-03,Corporate
+1157,Customer 157,customer157@example.test,Mumbai,Maharashtra,2021-05-28,Consumer
+1158,Customer 158,customer158@example.test,Bengaluru,Karnataka,2021-01-14,Consumer
+1159,Customer 159,customer159@example.test,Kochi,Kerala,2023-09-29,Consumer
+1160,Customer 160,customer160@example.test,Kolkata,West Bengal,2022-10-06,Consumer
+1161,Customer 161,customer161@example.test,Kolkata,West Bengal,2022-12-13,Consumer
+1162,Customer 162,customer162@example.test,Bengaluru,Karnataka,2021-01-01,Consumer
+1163,Customer 163,customer163@example.test,Kolkata,West Bengal,2022-10-10,Consumer
+1164,Customer 164,customer164@example.test,Mumbai,Maharashtra,2021-07-14,Consumer
+1165,Customer 165,customer165@example.test,Mumbai,Maharashtra,2021-04-19,Corporate
+1166,Customer 166,customer166@example.test,Chennai,Tamil Nadu,2022-05-13,Small Business
+1167,Customer 167,customer167@example.test,Bengaluru,Karnataka,2021-02-26,Small Business
+1168,Customer 168,customer168@example.test,Kolkata,West Bengal,2022-10-03,Small Business
+1169,Customer 169,customer169@example.test,Mumbai,Maharashtra,2021-07-09,Consumer
+1170,Customer 170,customer170@example.test,Chennai,Tamil Nadu,2022-05-22,Corporate
+1171,Customer 171,customer171@example.test,Kochi,Kerala,2023-10-04,Small Business
+1172,Customer 172,customer172@example.test,Ahmedabad,Gujarat,2023-04-29,Corporate
+1173,Customer 173,customer173@example.test,Pune,Maharashtra,2022-07-24,Corporate
+1174,Customer 174,customer174@example.test,Chennai,Tamil Nadu,2022-03-03,Corporate
+1175,Customer 175,customer175@example.test,Pune,Maharashtra,2022-08-15,Consumer
+1176,Customer 176,customer176@example.test,Kochi,Kerala,2023-10-05,Corporate
+1177,Customer 177,customer177@example.test,Jaipur,Rajasthan,2023-01-18,Corporate
+1178,Customer 178,customer178@example.test,Mumbai,Maharashtra,2021-04-28,Consumer
+1179,Customer 179,customer179@example.test,Kochi,Kerala,2023-09-16,Consumer
+1180,Customer 180,customer180@example.test,Chennai,Tamil Nadu,2022-05-26,Corporate
+1181,Customer 181,customer181@example.test,Pune,Maharashtra,2022-07-30,Consumer
+1182,Customer 182,customer182@example.test,Pune,Maharashtra,2022-07-25,Consumer
+1183,Customer 183,customer183@example.test,Chennai,Tamil Nadu,2022-03-26,Corporate
+1184,Customer 184,customer184@example.test,Bengaluru,Karnataka,2021-04-03,Consumer
+1185,Customer 185,customer185@example.test,Kochi,Kerala,2023-08-09,Consumer
+1186,Customer 186,customer186@example.test,Bengaluru,Karnataka,2021-02-12,Consumer
+1187,Customer 187,customer187@example.test,Kolkata,West Bengal,2022-09-27,Corporate
+1188,Customer 188,customer188@example.test,Ahmedabad,Gujarat,2023-05-05,Consumer
+1189,Customer 189,customer189@example.test,Delhi,Delhi,2021-10-04,Consumer
+1190,Customer 190,customer190@example.test,Bengaluru,Karnataka,2021-01-09,Consumer
+1191,Customer 191,customer191@example.test,Kolkata,West Bengal,2022-10-15,Consumer
+1192,Customer 192,customer192@example.test,Mumbai,Maharashtra,2021-05-22,Corporate
+1193,Customer 193,customer193@example.test,Mumbai,Maharashtra,2021-07-03,Consumer
+1194,Customer 194,customer194@example.test,Delhi,Delhi,2021-09-08,Corporate
+1195,Customer 195,customer195@example.test,Jaipur,Rajasthan,2023-02-19,Small Business
+1196,Customer 196,customer196@example.test,Delhi,Delhi,2021-11-10,Corporate
+1197,Customer 197,customer197@example.test,Mumbai,Maharashtra,2021-07-04,Consumer
+1198,Customer 198,customer198@example.test,Hyderabad,Telangana,2022-02-16,Consumer
+1199,Customer 199,customer199@example.test,Chennai,Tamil Nadu,2022-05-22,Consumer
+1200,Customer 200,customer200@example.test,Hyderabad,Telangana,2021-11-12,Consumer
+1201,Customer 201,customer201@example.test,Mumbai,Maharashtra,2021-06-12,Consumer
+1202,Customer 202,customer202@example.test,Pune,Maharashtra,2022-07-22,Small Business
+1203,Customer 203,customer203@example.test,Kochi,Kerala,2023-09-04,Consumer
+1204,Customer 204,customer204@example.test,Bengaluru,Karnataka,2021-02-12,Consumer
+1205,Customer 205,customer205@example.test,Kochi,Kerala,2023-08-22,Corporate
+1206,Customer 206,customer206@example.test,Chennai,Tamil Nadu,2022-03-16,Small Business
+1207,Customer 207,customer207@example.test,Chennai,Tamil Nadu,2022-06-09,Consumer
+1208,Customer 208,customer208@example.test,Jaipur,Rajasthan,2023-01-29,Corporate
+1209,Customer 209,customer209@example.test,Bengaluru,Karnataka,2021-03-08,Small Business
+1210,Customer 210,customer210@example.test,Jaipur,Rajasthan,2023-03-26,Small Business
+1211,Customer 211,customer211@example.test,Ahmedabad,Gujarat,2023-05-01,Consumer
+1212,Customer 212,customer212@example.test,Delhi,Delhi,2021-08-03,Corporate
+1213,Customer 213,customer213@example.test,Kochi,Kerala,2023-08-08,Consumer
+1214,Customer 214,customer214@example.test,Pune,Maharashtra,2022-07-24,Consumer
+1215,Customer 215,customer215@example.test,Delhi,Delhi,2021-10-05,Corporate
+1216,Customer 216,customer216@example.test,Bengaluru,Karnataka,2021-02-18,Corporate
+1217,Customer 217,customer217@example.test,Kolkata,West Bengal,2022-10-05,Consumer
+1218,Customer 218,customer218@example.test,Kolkata,West Bengal,2022-12-23,Consumer
+1219,Customer 219,customer219@example.test,Delhi,Delhi,2021-10-07,Consumer
+1220,Customer 220,customer220@example.test,Kolkata,West Bengal,2022-12-08,Consumer
+1221,Customer 221,customer221@example.test,Delhi,Delhi,2021-10-11,Consumer
+1222,Customer 222,customer222@example.test,Jaipur,Rajasthan,2023-02-20,Corporate
+1223,Customer 223,customer223@example.test,Kolkata,West Bengal,2022-12-09,Consumer
+1224,Customer 224,customer224@example.test,Hyderabad,Telangana,2022-02-23,Consumer
+1225,Customer 225,customer225@example.test,Ahmedabad,Gujarat,2023-07-20,Consumer
+1226,Customer 226,customer226@example.test,Chennai,Tamil Nadu,2022-03-27,Consumer
+1227,Customer 227,customer227@example.test,Chennai,Tamil Nadu,2022-05-23,Consumer
+1228,Customer 228,customer228@example.test,Delhi,Delhi,2021-10-18,Small Business
+1229,Customer 229,customer229@example.test,Delhi,Delhi,2021-07-31,Corporate
+1230,Customer 230,customer230@example.test,Kolkata,West Bengal,2022-09-23,Corporate
+1231,Customer 231,customer231@example.test,Bengaluru,Karnataka,2021-03-12,Small Business
+1232,Customer 232,customer232@example.test,Jaipur,Rajasthan,2023-04-06,Consumer
+1233,Customer 233,customer233@example.test,Pune,Maharashtra,2022-08-29,Consumer
+1234,Customer 234,customer234@example.test,Chennai,Tamil Nadu,2022-06-03,Corporate
+1235,Customer 235,customer235@example.test,Bengaluru,Karnataka,2021-03-28,Consumer
+1236,Customer 236,customer236@example.test,Ahmedabad,Gujarat,2023-04-29,Corporate
+1237,Customer 237,customer237@example.test,Bengaluru,Karnataka,2021-02-19,Consumer
+1238,Customer 238,customer238@example.test,Jaipur,Rajasthan,2023-03-01,Consumer
+1239,Customer 239,customer239@example.test,Chennai,Tamil Nadu,2022-05-26,Corporate
+1240,Customer 240,customer240@example.test,Mumbai,Maharashtra,2021-05-26,Small Business
+1241,Customer 241,customer241@example.test,Bengaluru,Karnataka,2021-01-21,Small Business
+1242,Customer 242,customer242@example.test,Delhi,Delhi,2021-10-29,Consumer
+1243,Customer 243,customer243@example.test,Kolkata,West Bengal,2022-12-30,Corporate
+1244,Customer 244,customer244@example.test,Chennai,Tamil Nadu,2022-05-16,Corporate
+1245,Customer 245,customer245@example.test,Chennai,Tamil Nadu,2022-04-28,Corporate
+1246,Customer 246,customer246@example.test,Bengaluru,Karnataka,2021-03-11,Consumer
+1247,Customer 247,customer247@example.test,Ahmedabad,Gujarat,2023-07-21,Consumer
+1248,Customer 248,customer248@example.test,Mumbai,Maharashtra,2021-07-08,Consumer
+1249,Customer 249,customer249@example.test,Bengaluru,Karnataka,2021-04-11,Consumer
+1250,Customer 250,customer250@example.test,Kochi,Kerala,2023-11-02,Consumer
+1251,Customer 251,customer251@example.test,Hyderabad,Telangana,2022-01-23,Consumer
+1252,Customer 252,customer252@example.test,Jaipur,Rajasthan,2023-01-21,Consumer
+1253,Customer 253,customer253@example.test,Delhi,Delhi,2021-09-12,Corporate
+1254,Customer 254,customer254@example.test,Kolkata,West Bengal,2022-11-24,Consumer
+1255,Customer 255,customer255@example.test,Kolkata,West Bengal,2022-12-23,Consumer
+1256,Customer 256,customer256@example.test,Delhi,Delhi,2021-09-23,Consumer
+1257,Customer 257,customer257@example.test,Delhi,Delhi,2021-08-18,Corporate
+1258,Customer 258,customer258@example.test,Kochi,Kerala,2023-09-06,Consumer
+1259,Customer 259,customer259@example.test,Hyderabad,Telangana,2022-02-15,Corporate
+1260,Customer 260,customer260@example.test,Kochi,Kerala,2023-11-10,Consumer
+1261,Customer 261,customer261@example.test,Kolkata,West Bengal,2022-11-05,Corporate
+1262,Customer 262,customer262@example.test,Kolkata,West Bengal,2022-11-29,Corporate
+1263,Customer 263,customer263@example.test,Mumbai,Maharashtra,2021-04-23,Consumer
+1264,Customer 264,customer264@example.test,Jaipur,Rajasthan,2023-02-19,Consumer
+1265,Customer 265,customer265@example.test,Mumbai,Maharashtra,2021-06-17,Corporate
+1266,Customer 266,customer266@example.test,Ahmedabad,Gujarat,2023-06-03,Corporate
+1267,Customer 267,customer267@example.test,Jaipur,Rajasthan,2023-02-08,Corporate
+1268,Customer 268,customer268@example.test,Kolkata,West Bengal,2022-10-22,Corporate
+1269,Customer 269,customer269@example.test,Mumbai,Maharashtra,2021-06-01,Small Business
+1270,Customer 270,customer270@example.test,Pune,Maharashtra,2022-07-25,Consumer
+1271,Customer 271,customer271@example.test,Mumbai,Maharashtra,2021-06-29,Consumer
+1272,Customer 272,customer272@example.test,Jaipur,Rajasthan,2023-02-05,Small Business
+1273,Customer 273,customer273@example.test,Pune,Maharashtra,2022-08-12,Consumer
+1274,Customer 274,customer274@example.test,Delhi,Delhi,2021-09-02,Corporate
+1275,Customer 275,customer275@example.test,Bengaluru,Karnataka,2021-01-26,Small Business
+1276,Customer 276,customer276@example.test,Hyderabad,Telangana,2021-11-26,Consumer
+1277,Customer 277,customer277@example.test,Hyderabad,Telangana,2021-12-18,Small Business
+1278,Customer 278,customer278@example.test,Kochi,Kerala,2023-10-20,Consumer
+1279,Customer 279,customer279@example.test,Kolkata,West Bengal,2022-10-04,Small Business
+1280,Customer 280,customer280@example.test,Kochi,Kerala,2023-09-15,Small Business
+1281,Customer 281,customer281@example.test,Delhi,Delhi,2021-09-10,Corporate
+1282,Customer 282,customer282@example.test,Kochi,Kerala,2023-08-19,Corporate
+1283,Customer 283,customer283@example.test,Kochi,Kerala,2023-09-23,Corporate
+1284,Customer 284,customer284@example.test,Kochi,Kerala,2023-10-11,Corporate
+1285,Customer 285,customer285@example.test,Jaipur,Rajasthan,2023-01-26,Consumer
+1286,Customer 286,customer286@example.test,Mumbai,Maharashtra,2021-04-17,Consumer
+1287,Customer 287,customer287@example.test,Delhi,Delhi,2021-08-21,Corporate
+1288,Customer 288,customer288@example.test,Kochi,Kerala,2023-09-14,Consumer
+1289,Customer 289,customer289@example.test,Kochi,Kerala,2023-09-29,Corporate
+1290,Customer 290,customer290@example.test,Hyderabad,Telangana,2022-02-09,Consumer
+1291,Customer 291,customer291@example.test,Kolkata,West Bengal,2022-12-11,Consumer
+1292,Customer 292,customer292@example.test,Chennai,Tamil Nadu,2022-04-16,Consumer
+1293,Customer 293,customer293@example.test,Jaipur,Rajasthan,2023-03-08,Consumer
+1294,Customer 294,customer294@example.test,Kolkata,West Bengal,2022-10-09,Consumer
+1295,Customer 295,customer295@example.test,Hyderabad,Telangana,2022-02-12,Consumer
+1296,Customer 296,customer296@example.test,Delhi,Delhi,2021-09-19,Consumer
+1297,Customer 297,customer297@example.test,Ahmedabad,Gujarat,2023-04-26,Consumer
+1298,Customer 298,customer298@example.test,Kochi,Kerala,2023-10-07,Consumer
+1299,Customer 299,customer299@example.test,Pune,Maharashtra,2022-08-20,Small Business
+1300,Customer 300,customer300@example.test,Mumbai,Maharashtra,2021-07-02,Consumer
+1301,Customer 301,customer301@example.test,Pune,Maharashtra,2022-06-15,Small Business
+1302,Customer 302,customer302@example.test,Mumbai,Maharashtra,2021-05-27,Consumer
+1303,Customer 303,customer303@example.test,Jaipur,Rajasthan,2023-02-23,Small Business
+1304,Customer 304,customer304@example.test,Kochi,Kerala,2023-08-17,Consumer
+1305,Customer 305,customer305@example.test,Mumbai,Maharashtra,2021-04-20,Consumer
+1306,Customer 306,customer306@example.test,Kolkata,West Bengal,2022-09-23,Consumer
+1307,Customer 307,customer307@example.test,Mumbai,Maharashtra,2021-05-11,Consumer
+1308,Customer 308,customer308@example.test,Bengaluru,Karnataka,2021-02-21,Corporate
+1309,Customer 309,customer309@example.test,Kolkata,West Bengal,2022-09-23,Consumer
+1310,Customer 310,customer310@example.test,Delhi,Delhi,2021-08-05,Consumer
+1311,Customer 311,customer311@example.test,Kochi,Kerala,2023-10-09,Consumer
+1312,Customer 312,customer312@example.test,Bengaluru,Karnataka,2021-03-18,Consumer
+1313,Customer 313,customer313@example.test,Ahmedabad,Gujarat,2023-05-05,Consumer
+1314,Customer 314,customer314@example.test,Delhi,Delhi,2021-08-23,Corporate
+1315,Customer 315,customer315@example.test,Mumbai,Maharashtra,2021-05-12,Consumer
+1316,Customer 316,customer316@example.test,Kolkata,West Bengal,2022-12-31,Consumer
+1317,Customer 317,customer317@example.test,Kochi,Kerala,2023-11-15,Small Business
+1318,Customer 318,customer318@example.test,Mumbai,Maharashtra,2021-05-22,Consumer
+1319,Customer 319,customer319@example.test,Bengaluru,Karnataka,2021-02-04,Corporate
+1320,Customer 320,customer320@example.test,Pune,Maharashtra,2022-09-12,Corporate
